@@ -1,0 +1,49 @@
+
+-> Number and String variable create using literal and constructor.
+-> Convert float to integer, string to number.
+-> == vs === and != vs !== operator.
+-> Working with Math Object.
+-> Working with date.
+-> Shorthand (&&) and (||) operator.
+-> Print this pyramid using loop
+   1 
+   1 2 
+   1 2 3
+-> String build-in function.    
+-> Create an array using literal and constructor.
+-> New data add in array without build-in method.
+-> New value insert and remove using build-in method.
+-> Duplicate array using build in method.
+-> Reverse an array using swapping methodology. 
+-> Multidimensional array create and traverse. 
+-> Object creation using literal and constructor.
+-> Object properties access with dot notation and array notation
+-> New properties add in object. 
+-> Delete object properties.
+-> in operator.
+-> Compare two object using stringify method.
+-> Duplicate object using build in method.
+-> Get all object key using build-in method.
+-> Get all object values using build-in method.
+-> Get full object using build-in method.
+-> Traverse full object using for in loop.
+-> Function define and call.
+-> Function argument and parameter.
+-> Function expression.
+-> Inner function.
+-> What is pure, first-class and higher-order function?
+-> What is closure?
+-> Build in forEach method use and implement by own.
+-> Build in map method use and implement by own.
+-> Build in filter method use and implement by own.
+-> Build in reduce method use and implement by own.
+-> Build in find and findIndex method use and implement by own.
+-> Build in some, every and sort function uses.
+-> Function curring.
+-> Function return. 
+-> Fuction composition. 
+-> Function prototype and inheritance.
+-> Print description of property using getOwnProperyDescriptor method.
+-> hasOwnProperty, getProtypeOf method.
+-> Set property description using defineProperty.
+-> instanceof Operator.

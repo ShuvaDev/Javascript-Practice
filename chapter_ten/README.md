@@ -1,0 +1,2 @@
+-> Describe creational phase and excutional phase
+-> What is hoisting?

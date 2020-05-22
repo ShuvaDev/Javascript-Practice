@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css">
+</head>
+<body>
+    <form id="form" class="container">
+        <div class="form-group">
+            <input type="text" name="name" id="name" class="form-control my-2" placeholder="Enter your name">
+            <div class="invalid-feedback">name is must be required</div>
+        </div>
+
+        <input type="text" name="email" id="email" class="form-control my-2" placeholder="Enter your email">
+
+        <input type="password" name="password" id="password" class="form-control my-2" placeholder="Enter your password">
+
+        <select name="country" id="country" class="form-control">
+            <option value="Bangladesh">Bangladesh</option>
+            <option value="India">India</option>
+            <option value="Pakistan">Pakistan</option>
+        </select>
+        <input type="submit" value="Submit" class="btn btn-success my-2">
+    </form>
+    <script src="./formData.js"></script>
+</body>
+</html>
